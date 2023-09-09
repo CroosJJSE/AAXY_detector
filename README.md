@@ -8,6 +8,7 @@ this is the task given by ACCLR
 
 the different from the answer they gave,
 this is system verilog,
+
 the state declaration out of the module
 
 ![image](https://github.com/CroosJJSE/AAXY_detector/assets/141708783/afb88b5f-cc2c-4935-8f00-f046c3c7e369)
